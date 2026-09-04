@@ -8,7 +8,7 @@ cask "m-series-video-converter" do
   homepage "https://github.com/RealHaltewunsch/mseries-video-converter"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on formula: "ffmpeg"
   depends_on formula: "exiftool"
   depends_on formula: "jq"
