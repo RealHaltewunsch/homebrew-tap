@@ -1,6 +1,6 @@
 cask "m-series-video-converter" do
-  version "0.3.1"
-  sha256 "2e9d09fc837b9b6962a3bd7628c74eb198cf23ec744a4b154438f52892e0c795"
+  version "0.3.2"
+  sha256 "103ea303c57c6ca896b95d10d4d60bea900d8c62d16659f810f409aac650b4a7"
 
   url "https://github.com/RealHaltewunsch/mseries-video-converter/releases/download/v#{version}/M-Series-Video-Converter.zip"
   name "M-Series Video Converter"
